@@ -1,0 +1,19 @@
+body
+{
+background-color: coral;
+}
+
+.Div1,.Div2
+{
+background-color: blueviolet;
+height: 300 px;
+width: 50%;
+border-radius: 30px;
+}
+
+#but
+{
+background-color: darkcyan;
+width: 100px;
+color: aliceblue;
+}
